@@ -1,0 +1,328 @@
+{
+  "version": 1,
+  "base_track": "Kid Blue",
+  "base_artist": "Enfants",
+  "createdAt": "2026-02-07T00:13:47.311752Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kid Blue From The Short Bus, Drunk Bunk",
+      "artist": "Filter",
+      "has_synced": false,
+      "path": "select/01_Kid_Blue_From_The_Short_Bus,_Drunk_Bunk_Filter.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kid Blue",
+      "artist": "Louise Goffin",
+      "has_synced": false,
+      "path": "select/02_Kid_Blue_Louise_Goffin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KID BLUE -Hadaka no Osama-",
+      "artist": "The QUEEN of PURPLE",
+      "has_synced": true,
+      "path": "select/03_KID_BLUE_-Hadaka_no_Osama-_The_QUEEN_of_PURPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KID BLUE ～裸の王様～",
+      "artist": "The QUEEN of PURPLE",
+      "has_synced": true,
+      "path": "select/04_KID_BLUE_~裸の王様~_The_QUEEN_of_PURPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/05_I'm_Good_(Blue)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Blue Angel",
+      "artist": "Aaron Tippin",
+      "has_synced": false,
+      "path": "select/06_My_Blue_Angel_Aaron_Tippin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Morpho",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/07_Blue_Morpho_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Clearest Blue (Gryffin Remix)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/08_Clearest_Blue_(Gryffin_Remix)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Am I Blue",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/09_Am_I_Blue_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Am I Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/10_Am_I_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Angel in Blue Jeans",
+      "artist": "Train",
+      "has_synced": true,
+      "path": "select/11_Angel_in_Blue_Jeans_Train.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Atlanta Blue",
+      "artist": "The Statlers",
+      "has_synced": false,
+      "path": "select/12_Atlanta_Blue_The_Statlers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby Blue",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/13_Baby_Blue_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/14_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/15_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby Blue (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/16_Baby_Blue_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/17_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Baby's Got Her Blue Jeans On",
+      "artist": "Mel McDaniel",
+      "has_synced": true,
+      "path": "select/18_Baby's_Got_Her_Blue_Jeans_On_Mel_McDaniel.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Barefoot Blue Jean Night",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/19_Barefoot_Blue_Jean_Night_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Barefoot Blue Jean Night",
+      "artist": "Jake Owen",
+      "has_synced": true,
+      "path": "select/20_Barefoot_Blue_Jean_Night_Jake_Owen.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Between Blue Eyes And Jeans",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/21_Between_Blue_Eyes_And_Jeans_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Blue",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/22_Blue_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Blue",
+      "artist": "Ingrid Andress",
+      "has_synced": true,
+      "path": "select/23_Blue_Ingrid_Andress.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "You're On Your Own, Kid",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/24_You're_On_Your_Own,_Kid_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Billy The Kid",
+      "artist": "Billy Dean",
+      "has_synced": true,
+      "path": "select/25_Billy_The_Kid_Billy_Dean.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Comeback Kid",
+      "artist": "Town Mountain",
+      "has_synced": true,
+      "path": "select/26_Comeback_Kid_Town_Mountain.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Small Town Kid",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/27_Small_Town_Kid_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Da Kid From Haiti Interlude",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/28_Da_Kid_From_Haiti_Interlude_Fugees.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Do Not Fuk Wif Da Kid",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/29_Do_Not_Fuk_Wif_Da_Kid_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Kid A",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/30_Kid_A_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Pull up on a Kid",
+      "artist": "Young Thug feat. Yak Gotti",
+      "has_synced": true,
+      "path": "select/31_Pull_up_on_a_Kid_Young_Thug_feat._Yak_Gotti.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Pull Up On A Kid (Feat. Yak Gotti)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/32_Pull_Up_On_A_Kid_(Feat._Yak_Gotti)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "AQUAFINA (feat. Rich The Kid)",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/33_AQUAFINA_(feat._Rich_The_Kid)_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Betrayed (Remix) (feat. Yo Gotti & Rich the Kid)",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/34_Betrayed_(Remix)_(feat._Yo_Gotti_&_Rich_the_Kid)_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "It Fit When I Was a Kid",
+      "artist": "Liars",
+      "has_synced": true,
+      "path": "select/35_It_Fit_When_I_Was_a_Kid_Liars.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "If Fit When I Was A Kid",
+      "artist": "Liars",
+      "has_synced": true,
+      "path": "select/36_If_Fit_When_I_Was_A_Kid_Liars.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Lay Your Head On Me (feat. Marcus Mumford) [Big Kid Big Room Mix]",
+      "artist": "Major Lazer",
+      "has_synced": true,
+      "path": "select/37_Lay_Your_Head_On_Me_(feat._Marcus_Mumford)_[Big_Kid_Big_Room_Mix]_Major_Lazer.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Tracy - Kid Loco's Playing With the Young Team Remix",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/38_Tracy_-_Kid_Loco's_Playing_With_the_Young_Team_Remix_Mogwai.txt"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Tracy (Kid Loco's Playing with the Young Team Remix)",
+      "artist": "Mogwai",
+      "has_synced": false,
+      "path": "select/39_Tracy_(Kid_Loco's_Playing_with_the_Young_Team_Remix)_Mogwai.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kid Blue",
+      "artist": "Enfants",
+      "has_synced": false,
+      "path": "select/pl_01_Kid_Blue_Enfants.txt"
+    }
+  ]
+}
